@@ -1,0 +1,9 @@
+<div class="top-link">
+    <a href="https://www.facebook.com/your_facebook_page" target="_blank" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-facebook-f text-primary"></i></a>
+    <a href="https://twitter.com/your_twitter_handle" target="_blank" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-twitter text-primary"></i></a>
+    <a href="https://www.instagram.com/winners_it_solutions?igsh=OTAycXQxeXR3N2x2" target="_blank" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-instagram text-primary"></i></a>
+    <a href="https://www.linkedin.com/your_linkedin_profile" target="_blank" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-linkedin-in text-primary"></i></a>
+    <a href="/etms/index.php" class="bg-light nav-fill btn btn-sm-square rounded-circle admin-login-button me-0">
+        <i class="fas fa-user text-primary"></i>
+    </a>
+</div>
